@@ -1,0 +1,104 @@
+.background{
+    background-color: rgb(22, 22, 22);
+    width: 100%;
+    height: 120%;
+}
+
+.fb-video{
+    display: flex;
+    width: 100%;
+    height: 50vh;
+    margin-top: -3%;
+    margin-left: 5%;
+}
+
+.links{
+    margin: 2%;
+}
+#fb-video-container {
+    width: 700px;
+    margin-top: 8%;
+    height: 400px;
+}
+.FastTitulo{
+    height: 6%;
+    margin-top: 2%;
+    margin-left: 5.5%;
+}
+
+.FastTitulo p{
+    width: 53%;
+    height: 2%;
+    margin-top: -8.5%;
+    margin-left: 6%;
+    font-size: 20px;
+    color: #ffffff;
+    font-family: 'manrope', sans-serif;
+}
+
+.FastSecond{
+    width: 35%;
+    height: 100%;
+    margin-top: -43%;
+    margin-left: 60%;
+    font-size: 18px;
+    color: #ffffff;
+    font-family: 'manrope', sans-serif;
+}
+
+.Envivo0{
+    width: 100%;
+    margin-top: 10%;
+    margin-left: 2%;
+    font-family: 'manrope', sans-serif;
+    color: #ffffff;
+    font-size: 18px;
+}
+.Envivo00{
+    width: 50%;
+    height: 10%;
+    margin-top: 17%;
+    margin-left: 1%;
+}
+
+.Envivo01{
+    margin-top: -14.7%;
+    margin-left: 25%;
+}
+
+.Envivo02{
+    margin-top: -14.7%;
+    margin-left:49%;
+}
+
+.Envivo03{
+    margin-top: -14.7%;
+    margin-left: 73%;
+}
+
+
+
+.imgg{
+    width: 300px;
+    height: 150px;
+    border-radius: 5px;
+    background-color: black;
+}
+
+.linkInput{
+    height: 10%;
+    width: 10%;
+    background-color: black;
+}
+
+.submitBtn{
+    width: 100%;
+        background: #ffffff;
+        border: 20px;
+        padding: 12px;
+        color: #000000cb;
+        font-size: 18px;
+        margin-top: 10%;
+        border-radius: 10px;
+        font-family: 'manrope', sans-serif;
+}
